@@ -10,7 +10,7 @@ A fun and interactive two-player card game implemented in Java. Challenge your o
 - [Project Structure](#-project-structure)
 - [How to Play](#-how-to-play)
 - [Getting Started](#-getting-started)
-- [Class Descriptions](#-class-descriptions)
+- [Class Descriptions](#️-class-descriptions)
 
 ---
 
