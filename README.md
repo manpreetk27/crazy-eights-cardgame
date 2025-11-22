@@ -4,13 +4,13 @@ A fun and interactive two-player card game implemented in Java. Challenge your o
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Game Rules](#game-rules)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [How to Play](#how-to-play)
-- [Getting Started](#getting-started)
-- [Class Descriptions](#class-descriptions)
+- [Overview](#-overview)
+- [Game Rules](#-game-rules)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [How to Play](#-how-to-play)
+- [Getting Started](#-getting-started)
+- [Class Descriptions](#-class-descriptions)
 
 ---
 
